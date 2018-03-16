@@ -1,0 +1,8 @@
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\bin\Debug\Calculating values.exe.config
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\obj\Debug\Calculating values.csprojResolveAssemblyReference.cache
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\bin\Debug\Calculating values.exe
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\bin\Debug\Calculating values.pdb
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\bin\Debug\MyLibrary.dll
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\bin\Debug\MyLibrary.pdb
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\obj\Debug\Calculating values.exe
+F:\Vignesh\Visual Studio 2013\Projects\Calculating values\Calculating values\obj\Debug\Calculating values.pdb
